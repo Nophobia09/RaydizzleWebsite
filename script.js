@@ -2,21 +2,21 @@
 // To use real photos, place images in assets/images/ and set image to that file path.
 const items = [
   {
-    name: "Blue Wave Bracelet",
+    name: "Rainbow Bracelet",
     category: "Bracelets",
-    price: "$6",
-    description: "A handmade bracelet with blue and white colors inspired by ocean waves.",
+    price: "$3",
+    description: "A handmade rainbow bracelet,  one size fits all.",
     status: "Available",
-    image: "",
+    image: "Nonbraided.jpg",
     emoji: "🌊"
   },
   {
-    name: "Sunset Bead Bracelet",
+    name: "Rainbow Bracelet with braided strap",
     category: "Bracelets",
-    price: "$7",
-    description: "Warm sunset colors with a bold handmade pattern.",
+    price: "$3",
+    description: "A handmade rainbow bracelet with braided strap, one size fits all.",
     status: "Available",
-    image: "",
+    image: "Braided.jpg",
     emoji: "🌅"
   },
   {

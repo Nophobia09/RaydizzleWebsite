@@ -8,7 +8,7 @@ const items = [
     description: "A handmade rainbow bracelet,  one size fits all.",
     status: "Available",
     image: "Nonbraided.jpg",
-    emoji: "🌊"
+    emoji: "🌈"
   },
   {
     name: "Rainbow Bracelet with braided strap",
@@ -17,7 +17,7 @@ const items = [
     description: "A handmade rainbow bracelet with braided strap, one size fits all.",
     status: "Available",
     image: "Braided.jpg",
-    emoji: "🌅"
+    emoji: "🏳️‍🌈"
   },
   {
     name: "Mini Galaxy Painting",

@@ -7,7 +7,7 @@ const items = [
     price: "$3",
     description: "A handmade rainbow bracelet,  one size fits all.",
     status: "Available",
-    image: "Nonbraided.jpg",
+    image: "assests/images/Nonbraided.jpg",
     emoji: "🌈"
   },
   {
@@ -16,7 +16,7 @@ const items = [
     price: "$3",
     description: "A handmade rainbow bracelet with braided strap, one size fits all.",
     status: "Available",
-    image: "Braided.jpg",
+    image: "assests/images/Braided.jpg",
     emoji: "🏳️‍🌈"
   },
   {

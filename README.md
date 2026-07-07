@@ -1,4 +1,4 @@
-# RJ's Handmade Shop
+# Raydizzle's Handmade Shop
 
 A static GitHub Pages website for listing handmade items such as bracelets, paintings, and crafts.
 
